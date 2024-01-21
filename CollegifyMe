@@ -1,0 +1,14 @@
+// src/main/java/com/example/colligifyme/ColligifyMeApplication.java
+
+package com.example.colligifyme;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ColligifyMeApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(ColligifyMeApplication.class, args);
+    }
+}
